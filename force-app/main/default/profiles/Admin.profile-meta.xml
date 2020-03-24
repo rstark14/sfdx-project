@@ -353,6 +353,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+
         <name>CreateWorkspaces</name>
     </userPermissions>
     <userPermissions>
@@ -461,6 +462,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+
         <name>GiveRecognitionBadge</name>
     </userPermissions>
     <userPermissions>
