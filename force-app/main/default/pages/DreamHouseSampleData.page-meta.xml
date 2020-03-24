@@ -4,6 +4,7 @@
     <availableInTouch>false</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <label>DreamHouseSampleData</label>
+<<<<<<< HEAD
     <packageVersions>
         <majorNumber>8</majorNumber>
         <minorNumber>166</minorNumber>
@@ -59,4 +60,5 @@
         <minorNumber>99</minorNumber>
         <namespace>trailheadapp</namespace>
     </packageVersions>
+
 </ApexPage>
